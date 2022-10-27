@@ -1,0 +1,154 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "category_id": "01",
+    "title": "React.js - Building the Frontend",
+    "author": {
+      "name": "Jimmy Dane",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+    "details": "React.js is a powerful frontend javascript library.You can create almost any application of frontend.React.js Developed by Facebook and maintained by Facebook.React.js is the most popular frontend library in 2022 and probably it will stay popular in the future.Learn React.js by creating React real world applications and learn it easiest way with us."
+  },
+
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71012",
+    "category_id": "02",
+    "title": "Angular",
+    "author": {
+      "name": "Jennifer Wood",
+      "published_date": "2022-08-30 16:38:45",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+    "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
+    "details": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of that puckering up list. The Fox News host is something of a folk hero in Russia: Because of the pro-Putin propaganda he so often spews, the Kremlin has encouraged Russia's state TV to air as much of Tucker's face as possible — and they're certain to love his latest rant about how Putin is winning the war in Ukraine, which does not seem to be the case. But on Fox News, what Tucker says goes."
+  },
+
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f0",
+    "category_id": "01",
+    "title": "React.js - Building the Frontend",
+    "author": {
+      "name": "system",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+    "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
+    "details": "WASHINGTON: President Joe Biden announced nearly $3 billion in military aid to Kyiv on Wednesday -- the biggest US package so far -- to mark Ukraine's independence day, six months after Russia invaded the country. The package aims to fortify Ukraine's military over the coming two years by committing the production and... read full story"
+  },
+
+  {
+    "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+    "category_id": "02",
+    "title": "Angular",
+    "author": {
+      "name": null,
+      "published_date": "2022-08-30 15:00:04",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+    "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
+    "details": "Fox News's top-rated host, Tucker Carlson, claimed on Monday night that Russian President Vladimir Putin is in fact winning the war in Ukraine, and President Joe Biden's insistence that Putin surrenders his campaign to take over Ukraine is actually evidence Biden's ultimate goal is to 'destroy the West.' Carlson arrived at his bizarre claim after railing against European and American military aid to Ukraine. 'Italy's Ukraine funding is a lot, but it's not quite as much as France. France has sent more than $2 billion U."
+  },
+
+  {
+    "_id": "a713ee936ff5574273f0f769f5c5b20e",
+    "category_id": "03",
+    "title": "Mongodb",
+    "author": {
+      "name": "system",
+      "published_date": null,
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
+    "image_url": "https://i.ibb.co/xh57pkr/unsplash-Eh-Tc-C9s-YXsw-1.png",
+    "details": "To receive Global Research's Daily Newsletter (selected articles), click here. Follow us on Instagram and Twitter and subscribe to our Telegram Channel. Feel free to repost and share widely Global Research articles. *** In response to Russia's attack on Ukraine, US President Joe Biden vowed to isolate... read full story"
+  },
+
+  {
+    "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+    "category_id": "04",
+    "title": "Express",
+    "author": {
+      "name": "Theo Minh Châu",
+      "published_date": "2022-08-25 06:03:00",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/j86wjDW/unsplash-Eh-Tc-C9s-YXsw-20.png",
+    "image_url": "https://i.ibb.co/WNrB5d7/unsplash-Eh-Tc-C9s-YXsw-9.png",
+    "details": "1,000 pairs of autographed Size 22 Reeboks were made available thanks to a partnership between Shaquille O’Neal and Steiner Sports. Shaquille O’Neal is a larger-than-life character in every way. We’re talking about a superstar who earned as many self-styled nicknames as he did awards, a man who made his NBA debut by traveling from coast to coast like a speeding freight train. Naturally, O’Neal was also physically larger than most people due to his 7ft height and 300-pound weight. His absurd size 22 shoes could serve as an oversized phone for Allen Iverson. .@SHAQ‘s signature is going global. The 4x @NBA champ is bringing his SHAQ shoes to South Africa — priced between R799 & R999 ($52 – $65 USD) for children and adults. Shaq says the current line is aimed at “everyday consumers.” pic.twitter.com/MWEHdVZOX0 — Boardroom (@boardroom) January 16, 2022 O’Neal is a well-known figure outside of basketball, where he found tremendous success. The former NBA player is now much more than that because he is well-known all over the country. Shaq gained a lot of admirers by choosing to work with Wall-Mart to launch an affordable footwear line. This helped in solidifying his legacy beyond his playing career."
+  },
+
+  {
+    "_id": "f06f8cc035b04bd1158e4198281915a4",
+    "category_id": "05",
+    "title": "Node",
+    "author": {
+      "name": "Ukrainska Pravda",
+      "published_date": "2022-08-25 18:53:49",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/dr4TRY4/unsplash-Eh-Tc-C9s-YXsw-21.png",
+    "image_url": "https://i.ibb.co/vz5K0FB/unsplash-Eh-Tc-C9s-YXsw-10.png",
+    "details": "On Thursday night’s episode of Up Late, Ben Harvey has suggested Troy Mercanti start an OnlyFans account if he wishes to challenge anti-consorting laws. The notorious bikie will fight allegations that he broke WA’s stringent anti-consorting and insignia laws — but is also watching a High Court challenge to the regulations which the State Government have touted have the nation’s toughest against outlaw motorcycle gang members. The long-time one per center was not in court on Wednesday when the not guilty pleas were entered. WATCH UP LATE IN THE VIDEO PLAYER ABOVE But his lawyer Paul Holmes was, who revealed that Mercanti’s defence will be on two fronts — against elements of the alleged offence, and the legislation itself.”"
+  },
+
+  {
+    "_id": "cd2b53655737cc4077542baea9f8f75d",
+    "category_id": "02",
+    "title": "Angular",
+    "author": {
+      "name": "Daniel Deangelo",
+      "published_date": "2022-08-30 20:02:52",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+    "details": "Robert Davi will be a pretty familiar face to fans of entertainment from the 1980s and 1990s, with supporting roles in The Goonies, Die Hard, and many other films and TV shows. He also lent his voice to Colonel Juan Cortez, a significant character in Grand Theft Auto: Vice City. Meanwhile, Halo fans will recognize his voice as that of the Elite Shipmaster Ratas Vadum from Halo 2 and Halo 3. He's responsible for some of the trilogy's most iconic scenes, including his speech in Halo 2 and 'Then it is an even fight' line in Halo 3."
+  },
+
+  {
+    "_id": "acb9b6785b62698fc6130db7615965e1",
+    "category_id": "03",
+    "title": "Mongodb",
+    "author": {
+      "name": "RTTNews",
+      "published_date": "2022-08-25 11:53:13",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
+    "image_url": "https://i.ibb.co/PxC67LV/unsplash-Eh-Tc-C9s-YXsw-1.png",
+    "details": "The United States has pledged nearly $3 billion in additional security assistance for Ukraine to help fight Russia's invasion as well as enable the country to defend itself over the long term. The latest aid package, under the Ukraine Security Assistance Initiative (USAI), was announced by President Joe Biden on Ukraine's Independence Day. This will allow Ukraine to acquire air defense systems,"
+  },
+  {
+    "_id": "be44c843d61859cc0b87cae85c55f9db",
+    "category_id": "01",
+    "title": "React.js - Building the Frontend",
+    "author": {
+      "name": "Kumar Natasha",
+      "published_date": "2022-08-26 12:15:36",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/dr4TRY4/unsplash-Eh-Tc-C9s-YXsw-21.png",
+    "image_url": "https://i.ibb.co/vz5K0FB/unsplash-Eh-Tc-C9s-YXsw-10.png",
+    "details": "Illustrative public photo In the coming weeks, the Joe Biden administration plans to name its military mission to support Ukraine and appoint a general to lead the military training and relief efforts. This is reported by The Wall Street Journal, citing US officials. The name of the operation formally recognizes US military support, akin to how the Pentagon dubbed the missions in Iraq and Afghanistan Operation Iraqi Freedom,   Enduring Freedom   and 'Guardian of Freedom'. The naming of training and assistance is of great bureaucratic importance, as it usually entails long-term dedicated funding and the possibility of special pay, rewards for military personnel participating in these missions."
+  },
+
+  {
+    "_id": "61f9ce168f7b15aadecb1d1fc80c72f0",
+    "category_id": "05",
+    "title": "Node",
+    "author": {
+      "name": "Alex Decocts",
+      "published_date": "2022-08-26 00:37:24",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/L507x2V/unsplash-Eh-Tc-C9s-YXsw-14.png",
+    "image_url": "https://i.ibb.co/tKsvCyR/unsplash-Eh-Tc-C9s-YXsw-3.png",
+    "details": "Associated Press  Six months after Russia's invasion of Ukraine, President Joe Biden announced Wednesday that he is sending $2.98 billion in new military aid to Ukraine that will provide longer-term weapons and training to enable forces there to fight for years to come. In a statement, Biden said the aid will allow Ukraine to acquire air defense systems, artillery systems and munitions, drones and other equipment 'to ensure it can continue to defend itself over the long term.' The announcement comes as Ukraine is celebrating its 1991 declaration of independence from the Soviet Union."
+  }
+]
